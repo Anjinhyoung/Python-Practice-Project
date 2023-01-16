@@ -26,7 +26,6 @@ print(int(3.3)) # int 값을 정수로 만듦
 print(int(5.0/3))
 
 print(5/3)
-
 a=10
 
 print(type(a))
